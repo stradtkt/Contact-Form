@@ -1,0 +1,46 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+.container form {
+  width: 50%;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+form div {
+  margin: 15px 0;
+}
+input[name="first_name"] {
+  position: relative;
+  left: 10%;
+}
+input[name="last_name"] {
+  position: relative;
+  left: 10.4%;
+}
+input[name="email"] {
+  position: relative;
+  left: 19.3%;
+}
+input[name="username"] {
+  position: relative;
+  left: 12%;
+}
+input[name="city"] {
+  position: relative;
+  left: 22.5%;
+}
+input[name="state"] {
+  position: relative;
+  left: 21%;
+}
+input[name="zip"] {
+  position: relative;
+  left: 23.8%;
+}
+input[type="submit"] {
+  display: block;
+  margin: 0 auto;
+}
